@@ -1,2 +1,2 @@
 #!/bin/bash
-find .holbertonschool-shell/ -type d \(! -name "." ! -name ".." \) | wc -l
+find .holbertonschool-shell -type d \(! -name "." ! -name ".." \) | wc -l
