@@ -88,4 +88,4 @@ If that story becomes messy, everyone suffers.
 Good commits make collaboration smoother, history cleaner, and development faster.  
 They are not just a formality — they are a vital part of communication and teamwork in software development.
 
- “Always write your commits as if the person who will read them knows nothing about what you just did — because one day, that person might be you.”
+ Always write your commits as if the person who will read them knows nothing about what you just did — because one day, that person might be you.
